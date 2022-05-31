@@ -1,0 +1,27 @@
+{
+    "name": "escapestring",
+    "version": "0.0.1",
+    "description": "Escape string in solidity",
+    "files": [
+        "*.sol"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhangshengjie/escapestring.git"
+    },
+    "keywords": [
+        "solidity",
+        "ethereum",
+        "smart",
+        "contracts",
+        "escape",
+        "json"
+    ],
+    "author": "z.cejay@gmail.com",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zhangshengjie/escapestring/issues"
+    },
+    "homepage": "https://github.com/zhangshengjie/escapestring",
+    "devDependencies": {}
+}
