@@ -6,7 +6,7 @@ Used to escape special characters when splicing json strings in solidity
 ## Installation
 ---
 ```shell
-npm install --save escapestring
+npm install --save solidity-escapestring
 ```
 
 ## Usages
@@ -14,7 +14,7 @@ npm install --save escapestring
 Escape String
     ```solidity
     pragma solidity ^0.8.4;
-    import "escapestring/escapeString.sol";
+    import "solidity-escapestring/escapeString.sol";
     contract HelloWorld {
         function main() public pure returns (string memory) {
             string memory s1 = "hello\r\nworld";

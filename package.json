@@ -1,5 +1,5 @@
 {
-    "name": "escapestring",
+    "name": "solidity-escapestring",
     "version": "0.0.1",
     "description": "Escape string in solidity",
     "files": [
